@@ -1,0 +1,8 @@
+C:/HW3_ALG/task3_skiplist/cmake-build-default/CMakeFiles/edit_cache.dir
+C:/HW3_ALG/task3_skiplist/cmake-build-default/CMakeFiles/rebuild_cache.dir
+C:/HW3_ALG/task3_skiplist/cmake-build-default/src/CMakeFiles/cyber_police_main.dir
+C:/HW3_ALG/task3_skiplist/cmake-build-default/src/CMakeFiles/edit_cache.dir
+C:/HW3_ALG/task3_skiplist/cmake-build-default/src/CMakeFiles/rebuild_cache.dir
+C:/HW3_ALG/task3_skiplist/cmake-build-default/tests/CMakeFiles/tests.dir
+C:/HW3_ALG/task3_skiplist/cmake-build-default/tests/CMakeFiles/edit_cache.dir
+C:/HW3_ALG/task3_skiplist/cmake-build-default/tests/CMakeFiles/rebuild_cache.dir
