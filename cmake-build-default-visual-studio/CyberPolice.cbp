@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CyberPolice"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;CMake Files\tests\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/HW3_ALG/task3_skiplist/cmake-build-default-visual-studio"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/HW3_ALG/task3_skiplist/cmake-build-default-visual-studio"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/HW3_ALG/task3_skiplist/cmake-build-default-visual-studio"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cyber_police_main">
+				<Option output="C:/HW3_ALG/task3_skiplist/cmake-build-default-visual-studio/src/cyber_police_main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/HW3_ALG/task3_skiplist/cmake-build-default-visual-studio/src"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\src\Makefile VERBOSE=1 cyber_police_main"/>
+					<CompileFile command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cyber_police_main/fast">
+				<Option output="C:/HW3_ALG/task3_skiplist/cmake-build-default-visual-studio/src/cyber_police_main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/HW3_ALG/task3_skiplist/cmake-build-default-visual-studio/src"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\src\Makefile VERBOSE=1 cyber_police_main/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests">
+				<Option output="C:/HW3_ALG/task3_skiplist/cmake-build-default-visual-studio/tests/tests.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/HW3_ALG/task3_skiplist/cmake-build-default-visual-studio/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/HW3_ALG/task3_skiplist/tests/../src"/>
+					<Add directory="C:/HW3_ALG/task3_skiplist/tests/."/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\tests\Makefile VERBOSE=1 tests"/>
+					<CompileFile command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\tests\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\tests\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\tests\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tests/fast">
+				<Option output="C:/HW3_ALG/task3_skiplist/cmake-build-default-visual-studio/tests/tests.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/HW3_ALG/task3_skiplist/cmake-build-default-visual-studio/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/HW3_ALG/task3_skiplist/tests/../src"/>
+					<Add directory="C:/HW3_ALG/task3_skiplist/tests/."/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\tests\Makefile VERBOSE=1 tests/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\tests\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\tests\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\HW3_ALG\task3_skiplist\cmake-build-default-visual-studio\tests\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/HW3_ALG/task3_skiplist/src/journal_net_activity.h">
+			<Option target="cyber_police_main"/>
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/HW3_ALG/task3_skiplist/src/journal_net_activity.hpp">
+			<Option target="cyber_police_main"/>
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/HW3_ALG/task3_skiplist/src/main.cpp">
+			<Option target="cyber_police_main"/>
+		</Unit>
+		<Unit filename="C:/HW3_ALG/task3_skiplist/src/net_activity.cpp">
+			<Option target="cyber_police_main"/>
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/HW3_ALG/task3_skiplist/src/net_activity.h">
+			<Option target="cyber_police_main"/>
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/HW3_ALG/task3_skiplist/src/ordered_list.h">
+			<Option target="cyber_police_main"/>
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/HW3_ALG/task3_skiplist/src/ordered_list.hpp">
+			<Option target="cyber_police_main"/>
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/HW3_ALG/task3_skiplist/src/skip_list.h">
+			<Option target="cyber_police_main"/>
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/HW3_ALG/task3_skiplist/src/skip_list.hpp">
+			<Option target="cyber_police_main"/>
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/HW3_ALG/task3_skiplist/src/time_stamp.cpp">
+			<Option target="cyber_police_main"/>
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/HW3_ALG/task3_skiplist/src/time_stamp.h">
+			<Option target="cyber_police_main"/>
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/HW3_ALG/task3_skiplist/tests/gtest/gtest-all.cc">
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/HW3_ALG/task3_skiplist/tests/gtest/gtest_main.cc">
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/HW3_ALG/task3_skiplist/tests/journal_test.cpp">
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/HW3_ALG/task3_skiplist/tests/skip_list_test.cpp">
+			<Option target="tests"/>
+		</Unit>
+		<Unit filename="C:/HW3_ALG/task3_skiplist/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/HW3_ALG/task3_skiplist/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="C:/HW3_ALG/task3_skiplist/tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
